@@ -1,6 +1,8 @@
 # Bitfinex
 
-**TODO: Add description**
+WIP, alpha.
+
+Elixir wrapper for bitfinex API.
 
 ## Installation
 
@@ -17,4 +19,3 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
         def application do
           [applications: [:bitfinex]]
         end
-
